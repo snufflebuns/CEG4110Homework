@@ -23,4 +23,8 @@ cheese balls onto a dessert platter.
 simmer 10 minutes. Stir 1 cup sugar, the cardamom, rose water, and saffron into the half and half and 
 simmer another 2 minutes. Remove from heat and allow to cool completely. 
 Drizzle the cooled mixture over the cheese balls. Sprinkle the almonds and pistachios over the 
+<<<<<<< HEAD
 cheese balls to serve.
+=======
+cheese balls to serve.
+>>>>>>> a2359fb4abe6120a73b0f499e21d8456d69175f2
